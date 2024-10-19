@@ -1,0 +1,28 @@
+{
+    "id": "6D9A9FB9",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1729086559903.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "id": "1f8ab063328a4122b76c12f6aeba6c61",
+        "name": "api_JSON",
+        "title": "api_JSON",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729086559903,
+    "read_only": false,
+    "read_only_alternatives": []
+}
